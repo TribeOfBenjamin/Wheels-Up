@@ -16,9 +16,9 @@ You can run this Application [here](https://wheels-up.herokuapp.com/).
 * [Bootstrap](https://getbootstrap.com/)
 
 ## Screen shots of the application 
-!(home.png)
-!(countrySearch.png)
-!(notes.png)
+![#1](home.png)
+![#2](countrySearch.png)
+![#3](notes.png)
 
 
 ## Contributors
