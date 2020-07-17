@@ -17,8 +17,8 @@ You can run this Application [here](https://wheels-up.herokuapp.com/).
 
 ## Screen shots of the application 
 ![Screen Shot 2020-07-15 at 5 41 08 PM](home.png)
-![Screen Shot 2020-07-15 at 5 42 00 PM](https://user-images.githubusercontent.com/17972802/87607398-dd7af780-c6c2-11ea-80f8-e915bde86098.png)
-![Screen Shot 2020-07-15 at 5 42 09 PM](https://user-images.githubusercontent.com/17972802/87607427-f08dc780-c6c2-11ea-8b70-d237daf08421.png)
+![Screen Shot 2020-07-15 at 5 42 00 PM](countrySearch.png)
+![Screen Shot 2020-07-15 at 5 42 09 PM](notes.png)
 
 
 ## Contributors
