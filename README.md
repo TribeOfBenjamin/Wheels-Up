@@ -1,7 +1,8 @@
 # Wheels Up
-This appplication tracks countries that users have visited and countries they want to visit in the future.  It allows users to search for countries by typing in the name of that country, search by alphabetical order, or search by regions of the world.  When searching by alphabetical order, a country card pops up with country specific information where users can then decide whether to add this country to it's list of places to visit. Users can also take notes on the pros/cons of that country.
+This appplication tracks countries that users have visited and countries they want to visit in the future. Users can search by first letter, world region, or by typing in the name of a country. Once searched, a list of countries display that fit the search criteria. The user can then add it to the list of countries they want to visit or they can see more information about that country (flag image, currency, language, etc.). Users can also make notes about their travels or travel plans at the bottom of the app as well.
 
-You can run this Application [here](https://wheels-up.herokuapp.com/).
+## Deployment
+The application is deployed on Heroku [here](https://wheels-up.herokuapp.com/).
 
 ## Features
 * Search for a country by name
@@ -11,15 +12,10 @@ You can run this Application [here](https://wheels-up.herokuapp.com/).
 * Move a country to a list of places visited 
 * Write a note about a country or a place 
 
-## Technologies Used
-* [Npm country-flag-icon](https://www.npmjs.com/package/country-flag-icons)
-* [Bootstrap](https://getbootstrap.com/)
-
 ## Screen shots of the application 
 ![#1](home.png)
 ![#2](countrySearch.png)
 ![#3](notes.png)
-
 
 ## Contributors
 Ahmed Bule
