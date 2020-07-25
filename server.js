@@ -1,4 +1,5 @@
 // Requiring necessary npm packages
+const compression = require("compression");
 const express = require("express");
 const exphbs = require("express-handlebars");
 
@@ -11,6 +12,9 @@ const app = express();
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
+
+// Compress all responses
+app.use(compression());
 
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
